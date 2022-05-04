@@ -1,0 +1,36 @@
+_repo: Paris-de-siecle-en-siecle-Le-C0x153ur-de-Paris-Splendeurs-et-souvenirs_67853
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Robida, Albert
+    alias: Robida, A. (Albert)
+    birthdate: 1848
+    deathdate: 1926
+    gutenberg_agent_id: '1043'
+    url: http://www.gutenberg.org/2009/agents/1043
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Albert_Robida
+    - https://fr.wikipedia.org/wiki/Albert_Robida
+description: ''
+gutenberg_issued: '2022-04-16'
+identifiers:
+  gutenberg: '67853'
+language: fr
+pgterms:marc904: https://archive.org/details/parisdesicleen00robiuoft
+pgterms:marc905: 20201101023840robida
+pgterms:marc906: '1896'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Hans Pieterse and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: France :Librairie illustrée,1896.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Paris (France) -- Description and travel'
+- !lcsh 'Paris (France) -- History'
+- GITenberg
+title: 'Paris de siècle en siècle: Le Cœur de Paris — Splendeurs et souvenirs'
+url: http://www.gutenberg.org/ebooks/67853
